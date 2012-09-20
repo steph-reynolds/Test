@@ -1,0 +1,68 @@
+
+
+body {
+	color:white;
+	font-family: "Verdana",sans-Serif;
+	font-size: 12pt;
+	margin-left: 10%;
+	margin-right: 10%;
+	}
+h1 {
+	font-family:"Verdana",sans-Serif;	
+	font-size: 28pt;
+	font-weight: strong;
+	padding-bottom: 0px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-family:"Verdana",sans-Serif;
+	font-size: 16pt;
+	font-weight: strong;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+h3 {
+	font-family:"Verdana",sans-Serif;
+	font-size: 12pt;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+h4 {
+	font-family:"Verdana",sans-Serif;
+	font-size: 10pt;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+li {
+	font-family:"Verdana",sans-Serif;
+	font-size: 10pt;
+	font-weight: normal;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+
+}
+
+td
+ {
+ padding:15px;
+ }
+ 
+a:link, a:visited { color: #fff; text-decoration: none}
+a:hover { color: #fff; text-decoration: underline;}
+
+#header { background:#333; width:900px; margin:auto; padding:5px 20px; height:100px; border: solid 2px black; }
+
+#content {background:#36c; width:900px; margin:auto; padding:20px; border: solid 2px black;}
+
+#resumeheader {background:#36c; width:900px; margin:auto; padding:20px; text-align:center; border-left:solid 2px black; border-right:solid 2px black; border-top:solid 2px black;}
+
+#resumebody {background:#36c; width:900px; margin:auto; padding:20px; text-align:left; border-bottom:solid 2px black; border-left:solid 2px black; border-right:solid 2px black; }
+
+#nav { background:#333; width:900px; margin:auto; padding:5px 20px; text-align:center; border-bottom:solid 2px black; border-left:solid 2px black; border-right:solid 2px black;}
+
+#nav li  { display: inline; list-style-type: none; padding-right: 20px; font-size: 14pt; font-weight:normal; font-variant:small-caps;}
